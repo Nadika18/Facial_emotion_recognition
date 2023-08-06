@@ -1,0 +1,15 @@
+class 1    Neutral
+
+class 2	   Happiness
+
+class 3    Sadness
+
+class 4    Surprise
+
+class 5	   Afraid
+
+class 6	   Disgusted
+
+class 7    Angry
+
+class 8    Contempt
